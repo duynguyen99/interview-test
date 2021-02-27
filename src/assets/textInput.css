@@ -1,0 +1,22 @@
+.form {
+    margin: auto;
+    width: 20%;
+}
+.group-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.group-label {
+    vertical-align: center;
+    margin: 15px auto;
+
+}
+
+.group-content .input-wrapper{
+    padding-bottom: 10px;
+}
+
+.input-wrapper span {
+    margin-right: 10px;
+}

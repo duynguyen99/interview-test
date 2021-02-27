@@ -1,0 +1,6 @@
+const FIELD_TYPE = {
+    FIRST_FIELD: "FIRST_FIELD",
+    SECOND_FIELD: "SECOND_FIELD"
+}
+
+export default FIELD_TYPE;
